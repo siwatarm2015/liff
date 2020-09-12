@@ -2,5 +2,7 @@
   "name": "js-1tblym",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@line/liff":"^2.3.1"
+  }
 }
